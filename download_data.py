@@ -5,8 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sn
 import geopandas as gpd
-import plotly.express as px
-import plotly.graph_objects as go
 from datetime import datetime,timedelta
 from datetime import date as dt
 from plotly.subplots import make_subplots
